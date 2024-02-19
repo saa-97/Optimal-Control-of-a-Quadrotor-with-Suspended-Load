@@ -1,3 +1,5 @@
+# Optimal Control of a Quadrotor with Suspended Load
+
 This project was developed for the final examination of the course Optimal Control for the Master's degree in Automation Engineering at the University of Bologna.
 
 The project focuses on the development of an optimal trajectory for a planar quadrotor carrying a suspended load. Various approaches for solving the trajectory tracking problem are explored, beginning with the application of Newton’s method for optimal control to obtain an optimal state trajectory. Subsequently, the obtained trajectory is utilized in Linear Quadratic Regulator (LQR) and Model Predictive Control (MPC) techniques to generate optimal inputs for guiding the quadrotor along the predefined trajectory. A comparative analysis is conducted to assess and contrast the effectiveness of both LQR and MPC in terms of optimal input generation for the desired trajectory.
