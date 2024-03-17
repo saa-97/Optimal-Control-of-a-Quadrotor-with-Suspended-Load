@@ -4,7 +4,7 @@ The project focuses on the development of an optimal trajectory for a planar qua
 
 The following contains the details about the code and the instructions on how to run it.
 
-First, here is a description of all the python files:
+Below is a description of all the python files:
 1) main.py - This is the main file of the code. From here, different tasks can be run by setting them to true.
 2) dynamics.py - This file contains the discretized dynamics and the gradients of the dynamics for the linearization matrices
 3) desired_traj.py – This file is used to generate the desired step and spline trajectories between our equilibrium points
