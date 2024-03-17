@@ -19,5 +19,5 @@ First, here is a description of all the python files:
 
 The code can be run from the main.py file by following these steps:
 1) Select the tasks to be run from the “SELECTION OF TASKS” section. In order to run tasks 3, 4 and 5, make sure that task 2 is set to TRUE.
-2) Selection of perturbation magnitude for task 3 and 4 can also be set from here. Choose between ‘none’, ‘small’ and ‘large’ perturbation magnitudes.
+2) Selection of perturbation magnitude for task 3 and 4 can also be set from their respective code blocks. Choose between ‘none’, ‘small’ and ‘large’ perturbation magnitudes.
 3) In order to enable the visualization of Armijo plots, set visu_armijo to TRUE in the solver.py file. Frequency of plots can be set by print_iter parameter. 
